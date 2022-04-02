@@ -27,3 +27,6 @@ for i in range(n):
     for j in range(n):
         if lis[i][j] == m:
             print(i+1,j+1)
+            
+
+            
