@@ -2,8 +2,6 @@ from collections import deque
 s = input()
 stack = deque()
 l = len(s)
-
-
 #힌트 얻은 사이트 : https://pangsblog.tistory.com/53
 #숫자랑 괄호가 연속으로 나오면 곱하고, 숫자랑 숫자가 나오면 더한다.
 #(()[[]])([])
