@@ -12,7 +12,7 @@ for i in range(m):
     a, b = map(int,input().split())
     graph[a][b] = 1
     graph[b][a] = 1
-'''for i in range(1,n+1):
+'''for i in range(1,n+1): 
     print(graph[i])'''
 
 for k in range(1,n+1):
