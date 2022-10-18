@@ -2,6 +2,7 @@
 
 ## 2022.09.03 시작 스터디 
 - 책 "이것이 코딩테스트다" 기출문제
+- https://github.com/yaena1223/Codingtest_python/tree/main/%EC%9D%B4%EC%BD%94%ED%85%8C
 
 ### 구현
 - 7번 럭키 스트레이트([백준 18406번](https://www.acmicpc.net/problem/18406)) : [풀이](https://github.com/yaena1223/Codingtest_python/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84/exam_07.py)
