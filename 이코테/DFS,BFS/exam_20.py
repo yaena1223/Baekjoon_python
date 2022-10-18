@@ -81,12 +81,15 @@ for i in obstacle:
                 # print("선생님")
                 #선생님이면 상하좌우 살펴보기
                 for dir in range(4):
-                    #학생이 발견되면, NO하고 break
+                    #학생이 발견되면, 플러스
                     if bfs(a,b,array2,dir):
                         stu+=1
+
+    #학생이 끝까지 발견되지 않으면, YES
     if stu==0:
         ans = "YES"
         break
+    #발견되면 NO
     else:
         ans = "NO"
 
